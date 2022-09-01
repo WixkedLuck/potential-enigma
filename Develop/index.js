@@ -44,7 +44,7 @@ const questions = [
     {
         type: 'list',
         message: 'Do you have a liscense?',
-        choices: ['afl-3.0', 'apache-2.0', 'bsl-1.0', 'wtfpl', 'lgpl-3.0'],
+        choices: ['afl-3.0', 'apache-2.0', 'bsl-1.0', 'wtfpl', 'lgpl-3.0', 'N/A'],
         name: 'liscense',
     },
 
