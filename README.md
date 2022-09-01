@@ -28,6 +28,6 @@ Clone the repository on GitHub then open Git on your local machine. First find a
 The purpose of this project is to make a functional node application that uses node.js and the inquirer package to create a professional Readme document.  
 
 
-![Challange9-ReadMeGenerator](./images/Weather-Dash.PNG)
+![Challange9-ReadMeGenerator](./image/ReadMe.PNG)
 
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
