@@ -19,6 +19,9 @@ function generateMarkdown(data) {
 * [Usage](#usage)
 * [License](#license)
 * [Contributors](#Contributors)
+* [Test](#Test)
+* [Questions](#Questions)
+
         
 ## Description:
 * ${data.Description} <br/>
@@ -31,6 +34,11 @@ In order to install my project, you will need the following <br/>
 * ${data.liscense}  <br/>
 ## Contributors
 * ${data.Contribute}  <br/>
+## Test
+* ${data.Test}  <br/>
+## Questions
+* ${data.Questions}  <br/>
+
 `;
 }
 
